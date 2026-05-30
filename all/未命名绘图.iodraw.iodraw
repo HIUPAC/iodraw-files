@@ -353,12 +353,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="MuFlPpNBkbOXEUYVoAcx-82" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="MuFlPpNBkbOXEUYVoAcx-72">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="440" y="440" as="sourcePoint" />
-            <mxPoint x="490" y="390" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="MuFlPpNBkbOXEUYVoAcx-83" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" target="MuFlPpNBkbOXEUYVoAcx-72">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="440" y="440" as="sourcePoint" />
@@ -367,6 +361,12 @@
         </mxCell>
         <mxCell id="MuFlPpNBkbOXEUYVoAcx-72" value="计算最终得分" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="356" y="410" width="156" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="MuFlPpNBkbOXEUYVoAcx-85" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="440" as="sourcePoint" />
+            <mxPoint x="530" y="330" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
