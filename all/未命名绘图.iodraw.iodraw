@@ -342,6 +342,9 @@
         <mxCell id="MuFlPpNBkbOXEUYVoAcx-71" value="判断选手数据是否存在" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="212.75" y="211" width="166.5" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="MuFlPpNBkbOXEUYVoAcx-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MuFlPpNBkbOXEUYVoAcx-78" target="MuFlPpNBkbOXEUYVoAcx-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="MuFlPpNBkbOXEUYVoAcx-78" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="236" y="80" width="120" height="60" as="geometry" />
         </mxCell>
@@ -368,21 +371,13 @@
         <mxCell id="MuFlPpNBkbOXEUYVoAcx-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MuFlPpNBkbOXEUYVoAcx-72" target="MuFlPpNBkbOXEUYVoAcx-97">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MuFlPpNBkbOXEUYVoAcx-72" value="显示当前选手成绩" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="356" y="410" width="156" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="MuFlPpNBkbOXEUYVoAcx-85" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="MuFlPpNBkbOXEUYVoAcx-71">
+        <mxCell id="MuFlPpNBkbOXEUYVoAcx-85" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="MuFlPpNBkbOXEUYVoAcx-72">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="440" y="440" as="sourcePoint" />
             <mxPoint x="437" y="399" as="targetPoint" />
             <Array as="points">
               <mxPoint x="437" y="315" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="MuFlPpNBkbOXEUYVoAcx-101" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MuFlPpNBkbOXEUYVoAcx-85">
-          <mxGeometry x="-0.4107" y="5" relative="1" as="geometry">
-            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="MuFlPpNBkbOXEUYVoAcx-97" value="返回主界面" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -399,6 +394,21 @@
         </mxCell>
         <mxCell id="MuFlPpNBkbOXEUYVoAcx-104" value="返回主界面" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="94" y="513" width="120" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="MuFlPpNBkbOXEUYVoAcx-108" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="MuFlPpNBkbOXEUYVoAcx-71" target="MuFlPpNBkbOXEUYVoAcx-72">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="379" y="256" as="sourcePoint" />
+            <mxPoint x="437" y="399" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MuFlPpNBkbOXEUYVoAcx-109" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MuFlPpNBkbOXEUYVoAcx-108">
+          <mxGeometry x="-0.4107" y="5" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MuFlPpNBkbOXEUYVoAcx-72" value="显示当前选手成绩" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="356" y="391" width="156" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
