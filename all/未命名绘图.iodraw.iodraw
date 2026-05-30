@@ -329,8 +329,8 @@
         <mxCell id="MuFlPpNBkbOXEUYVoAcx-70" value="输入选手ID和姓名" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="767" y="180" width="121" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="MuFlPpNBkbOXEUYVoAcx-71" value="判断10位评委打分是否正确" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="183.5" y="280" width="166.5" height="90" as="geometry" />
+        <mxCell id="MuFlPpNBkbOXEUYVoAcx-71" value="判断10位评委打分&#xa;是否正确" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="200" y="270" width="166.5" height="90" as="geometry" />
         </mxCell>
         <mxCell id="MuFlPpNBkbOXEUYVoAcx-73" value="添加选手到列表" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="210" y="510" width="172" height="49" as="geometry" />
