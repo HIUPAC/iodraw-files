@@ -386,17 +386,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="MuFlPpNBkbOXEUYVoAcx-101" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MuFlPpNBkbOXEUYVoAcx-85">
+        <mxCell id="MuFlPpNBkbOXEUYVoAcx-101" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MuFlPpNBkbOXEUYVoAcx-85">
           <mxGeometry x="-0.4107" y="5" relative="1" as="geometry">
             <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="MuFlPpNBkbOXEUYVoAcx-88" value="返回主界面" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="235" y="640" width="120" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="MuFlPpNBkbOXEUYVoAcx-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.51;entryY=-0.089;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="MuFlPpNBkbOXEUYVoAcx-88">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="295.9999999999998" y="559" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="MuFlPpNBkbOXEUYVoAcx-97" value="返回主界面" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
