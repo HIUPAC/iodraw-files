@@ -333,10 +333,7 @@
           <mxGeometry x="235" y="280" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="MuFlPpNBkbOXEUYVoAcx-73" value="添加选手到列表" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="210" y="520" width="172" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="MuFlPpNBkbOXEUYVoAcx-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="MuFlPpNBkbOXEUYVoAcx-74" target="MuFlPpNBkbOXEUYVoAcx-71">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="210" y="510" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="MuFlPpNBkbOXEUYVoAcx-74" value="分数不合格" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="80" y="410" width="156" height="49" as="geometry" />
@@ -379,6 +376,9 @@
         </mxCell>
         <mxCell id="MuFlPpNBkbOXEUYVoAcx-88" value="返回主界面" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="235" y="640" width="120" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="MuFlPpNBkbOXEUYVoAcx-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.51;entryY=-0.089;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MuFlPpNBkbOXEUYVoAcx-73" target="MuFlPpNBkbOXEUYVoAcx-88">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
