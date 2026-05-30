@@ -330,7 +330,7 @@
           <mxGeometry x="767" y="180" width="121" height="70" as="geometry" />
         </mxCell>
         <mxCell id="MuFlPpNBkbOXEUYVoAcx-71" value="判断10位评委打分&#xa;是否正确" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="210" y="270" width="166.5" height="90" as="geometry" />
+          <mxGeometry x="212.75" y="270" width="166.5" height="90" as="geometry" />
         </mxCell>
         <mxCell id="MuFlPpNBkbOXEUYVoAcx-73" value="添加选手到列表" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="210" y="510" width="172" height="49" as="geometry" />
@@ -338,7 +338,7 @@
         <mxCell id="MuFlPpNBkbOXEUYVoAcx-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="MuFlPpNBkbOXEUYVoAcx-74" target="MuFlPpNBkbOXEUYVoAcx-71">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MuFlPpNBkbOXEUYVoAcx-74" value="分数不合格" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="MuFlPpNBkbOXEUYVoAcx-74" value="重新评分" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="80" y="410" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="MuFlPpNBkbOXEUYVoAcx-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MuFlPpNBkbOXEUYVoAcx-77" target="MuFlPpNBkbOXEUYVoAcx-71">
