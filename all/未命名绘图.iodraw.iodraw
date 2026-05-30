@@ -338,7 +338,7 @@
         <mxCell id="MuFlPpNBkbOXEUYVoAcx-73" value="添加选手到列表" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="210" y="590" width="172" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="MuFlPpNBkbOXEUYVoAcx-74" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="MuFlPpNBkbOXEUYVoAcx-74" value="分数不合格" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="80" y="410" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="MuFlPpNBkbOXEUYVoAcx-77" value="输入选手ID和姓名" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
