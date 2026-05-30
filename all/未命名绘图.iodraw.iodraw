@@ -339,6 +339,11 @@
         <mxCell id="MuFlPpNBkbOXEUYVoAcx-70" value="输入选手ID和姓名" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="767" y="180" width="121" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="MuFlPpNBkbOXEUYVoAcx-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MuFlPpNBkbOXEUYVoAcx-71">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="422.9259033203125" y="323.2222222222222" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="MuFlPpNBkbOXEUYVoAcx-71" value="判断选手数据是否存在" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="212.75" y="211" width="166.5" height="90" as="geometry" />
         </mxCell>
