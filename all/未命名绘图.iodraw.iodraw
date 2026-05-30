@@ -400,6 +400,9 @@
         <mxCell id="MuFlPpNBkbOXEUYVoAcx-98" value="返回主界面" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1114" y="140" width="120" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="MuFlPpNBkbOXEUYVoAcx-103" value="无此选手信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="76" y="410" width="156" height="49" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
