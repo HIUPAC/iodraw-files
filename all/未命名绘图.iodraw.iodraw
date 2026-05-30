@@ -358,9 +358,6 @@
         <mxCell id="MuFlPpNBkbOXEUYVoAcx-78" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="236" y="80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MuFlPpNBkbOXEUYVoAcx-97" value="返回主界面" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="377" y="433" width="120" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="MuFlPpNBkbOXEUYVoAcx-98" value="返回主界面" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1114" y="140" width="120" height="49" as="geometry" />
         </mxCell>
@@ -371,10 +368,7 @@
           <mxGeometry x="80" y="322" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="MuFlPpNBkbOXEUYVoAcx-104" value="返回主界面" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="98" y="426" width="120" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="MuFlPpNBkbOXEUYVoAcx-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MuFlPpNBkbOXEUYVoAcx-72" target="MuFlPpNBkbOXEUYVoAcx-97">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="236" y="526" width="120" height="49" as="geometry" />
         </mxCell>
         <mxCell id="MuFlPpNBkbOXEUYVoAcx-72" value="显示当前选手成绩" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="359" y="325" width="156" height="49" as="geometry" />
