@@ -4,6 +4,11 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="MuFlPpNBkbOXEUYVoAcx-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MuFlPpNBkbOXEUYVoAcx-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="980" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="MuFlPpNBkbOXEUYVoAcx-8" value="开始" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1160" y="590" width="92" height="49" as="geometry" />
         </mxCell>
@@ -325,7 +330,7 @@
           <mxGeometry x="250" y="120" width="92" height="49" as="geometry" />
         </mxCell>
         <mxCell id="MuFlPpNBkbOXEUYVoAcx-70" value="输入选手ID和姓名" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="241" y="210" width="110" height="70" as="geometry" />
+          <mxGeometry x="230" y="210" width="121" height="70" as="geometry" />
         </mxCell>
         <mxCell id="MuFlPpNBkbOXEUYVoAcx-71" value="输入10位评委打分" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="220" y="310" width="140" height="70" as="geometry" />
