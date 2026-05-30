@@ -333,7 +333,7 @@
           <mxGeometry x="767" y="180" width="121" height="70" as="geometry" />
         </mxCell>
         <mxCell id="MuFlPpNBkbOXEUYVoAcx-71" value="输入10位评委打分" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="220" y="310" width="140" height="70" as="geometry" />
+          <mxGeometry x="840" y="310" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="MuFlPpNBkbOXEUYVoAcx-72" value="计算最终得分" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="351" y="440" width="156" height="49" as="geometry" />
@@ -342,7 +342,10 @@
           <mxGeometry x="210" y="590" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="MuFlPpNBkbOXEUYVoAcx-74" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="100" y="420" width="156" height="49" as="geometry" />
+          <mxGeometry x="100" y="440" width="156" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="MuFlPpNBkbOXEUYVoAcx-77" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="236" y="210" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
