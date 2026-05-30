@@ -1,0 +1,345 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Edg/148.0.0.0" version="24.7.17">
+  <diagram name="第 1 页" id="8HLbw1kDOm5-Q0GW1Hoo">
+    <mxGraphModel dx="869" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="MuFlPpNBkbOXEUYVoAcx-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MuFlPpNBkbOXEUYVoAcx-3" value="输入学号" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="330" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MuFlPpNBkbOXEUYVoAcx-4" value="是否在0-100" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="315" y="450" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MuFlPpNBkbOXEUYVoAcx-5" value="输入分数" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="315" y="390" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MuFlPpNBkbOXEUYVoAcx-6" value="数据错误" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="540" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MuFlPpNBkbOXEUYVoAcx-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="535" width="100" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="MuFlPpNBkbOXEUYVoAcx-8" value="开始" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="590" width="92" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="MuFlPpNBkbOXEUYVoAcx-9" value="选择功能" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="689" width="113" height="113" as="geometry" />
+        </mxCell>
+        <mxCell id="MuFlPpNBkbOXEUYVoAcx-10" value="输入选手ID和姓名" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="2251" y="859" width="175" height="175" as="geometry" />
+        </mxCell>
+        <mxCell id="MuFlPpNBkbOXEUYVoAcx-11" value="输入10位评委打分" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="2250" y="1111" width="177" height="177" as="geometry" />
+        </mxCell>
+        <mxCell id="MuFlPpNBkbOXEUYVoAcx-12" value="计算最终得分" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2515" y="1416" width="156" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="MuFlPpNBkbOXEUYVoAcx-13" value="添加选手到列表" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2451" y="1592" width="172" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="MuFlPpNBkbOXEUYVoAcx-14" value="对选手列表排序" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2451" y="1714" width="172" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="MuFlPpNBkbOXEUYVoAcx-15" value="显示“录入成功”" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1309" y="1812" width="173" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="MuFlPpNBkbOXEUYVoAcx-16" value="选手列表是否为空?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="556" y="855" width="183" height="183" as="geometry" />
+        </mxCell>
+        <mxCell id="MuFlPpNBkbOXEUYVoAcx-17" value="显示“暂无选手数据”" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="235" y="1175" width="205" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="MuFlPpNBkbOXEUYVoAcx-18" value="显示当前排名列表" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="490" y="1175" width="188" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="MuFlPpNBkbOXEUYVoAcx-19" value="选手列表是否为空?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1589" y="855" width="183" height="183" as="geometry" />
+        </mxCell>
+        <mxCell id="MuFlPpNBkbOXEUYVoAcx-20" value="显示“暂无选手数据”" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="731" y="1175" width="205" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="MuFlPpNBkbOXEUYVoAcx-21" value="输入查询选手ID" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="2041" y="1120" width="159" height="159" as="geometry" />
+        </mxCell>
+        <mxCell id="MuFlPpNBkbOXEUYVoAcx-22" value="根据ID查找选手" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="2041" y="1361" width="159" height="159" as="geometry" />
+        </mxCell>
+        <mxCell id="MuFlPpNBkbOXEUYVoAcx-23" value="显示选手信息和排名" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="888" y="1592" width="204" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="MuFlPpNBkbOXEUYVoAcx-24" value="显示“未找到该选手”" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1960" y="1592" width="205" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="MuFlPpNBkbOXEUYVoAcx-25" value="选手列表是否为空?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1357" y="855" width="183" height="183" as="geometry" />
+        </mxCell>
+        <mxCell id="MuFlPpNBkbOXEUYVoAcx-26" value="显示“暂无选手数据，无法生成”" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1006" y="1166" width="244" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="MuFlPpNBkbOXEUYVoAcx-27" value="保存成绩单到文件result.txt" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="1175" width="256" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="MuFlPpNBkbOXEUYVoAcx-28" value="显示“成绩单已保存”" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1264" y="1416" width="205" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="MuFlPpNBkbOXEUYVoAcx-29" value="释放内存" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1822" y="922" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="MuFlPpNBkbOXEUYVoAcx-30" value="显示“感谢使用”" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1798" y="1175" width="173" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="MuFlPpNBkbOXEUYVoAcx-31" value="结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1838" y="1416" width="92" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="MuFlPpNBkbOXEUYVoAcx-32" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2338" y="1440" as="geometry" />
+        </mxCell>
+        <mxCell id="MuFlPpNBkbOXEUYVoAcx-33" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2335" y="1617" as="geometry" />
+        </mxCell>
+        <mxCell id="MuFlPpNBkbOXEUYVoAcx-34" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.51;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="MuFlPpNBkbOXEUYVoAcx-8" target="MuFlPpNBkbOXEUYVoAcx-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MuFlPpNBkbOXEUYVoAcx-35" value="1. 录入选手及评分" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.53;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="MuFlPpNBkbOXEUYVoAcx-9" target="MuFlPpNBkbOXEUYVoAcx-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2338" y="828" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MuFlPpNBkbOXEUYVoAcx-36" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="MuFlPpNBkbOXEUYVoAcx-10" target="MuFlPpNBkbOXEUYVoAcx-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MuFlPpNBkbOXEUYVoAcx-37" value="有效打分" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.75;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="MuFlPpNBkbOXEUYVoAcx-11" target="MuFlPpNBkbOXEUYVoAcx-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2593" y="1324" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MuFlPpNBkbOXEUYVoAcx-38" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.63;entryY=0.01;rounded=0;" edge="1" parent="1" source="MuFlPpNBkbOXEUYVoAcx-12" target="MuFlPpNBkbOXEUYVoAcx-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2593" y="1556" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MuFlPpNBkbOXEUYVoAcx-39" value="成功添加" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="MuFlPpNBkbOXEUYVoAcx-13" target="MuFlPpNBkbOXEUYVoAcx-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MuFlPpNBkbOXEUYVoAcx-40" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=1;entryY=0.43;rounded=0;" edge="1" parent="1" source="MuFlPpNBkbOXEUYVoAcx-14" target="MuFlPpNBkbOXEUYVoAcx-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2537" y="1787" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MuFlPpNBkbOXEUYVoAcx-41" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.43;entryX=0;entryY=0.54;rounded=0;" edge="1" parent="1" source="MuFlPpNBkbOXEUYVoAcx-15" target="MuFlPpNBkbOXEUYVoAcx-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="200" y="1787" />
+              <mxPoint x="200" y="828" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MuFlPpNBkbOXEUYVoAcx-42" value="" style="curved=1;startArrow=none;endArrow=none;exitX=0.5;exitY=1;entryX=Infinity;entryY=Infinity;rounded=0;" edge="1" parent="1" source="MuFlPpNBkbOXEUYVoAcx-11" target="MuFlPpNBkbOXEUYVoAcx-32">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MuFlPpNBkbOXEUYVoAcx-43" value="无效打分" style="curved=1;startArrow=none;endArrow=none;exitX=Infinity;exitY=Infinity;entryX=Infinity;entryY=-Infinity;rounded=0;" edge="1" parent="1" source="MuFlPpNBkbOXEUYVoAcx-32" target="MuFlPpNBkbOXEUYVoAcx-33">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2338" y="1556" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MuFlPpNBkbOXEUYVoAcx-44" value="" style="curved=1;startArrow=none;endArrow=block;exitX=Infinity;exitY=-Infinity;entryX=0.18;entryY=1;rounded=0;" edge="1" parent="1" source="MuFlPpNBkbOXEUYVoAcx-33" target="MuFlPpNBkbOXEUYVoAcx-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2259" y="1556" />
+              <mxPoint x="2259" y="1324" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MuFlPpNBkbOXEUYVoAcx-45" value="失败" style="curved=1;startArrow=none;endArrow=block;exitX=0.37;exitY=0.01;entryX=1;entryY=0.53;rounded=0;" edge="1" parent="1" source="MuFlPpNBkbOXEUYVoAcx-13" target="MuFlPpNBkbOXEUYVoAcx-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2480" y="1556" />
+              <mxPoint x="2480" y="828" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MuFlPpNBkbOXEUYVoAcx-46" value="2. 显示实时排名" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.57;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="MuFlPpNBkbOXEUYVoAcx-9" target="MuFlPpNBkbOXEUYVoAcx-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="647" y="828" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MuFlPpNBkbOXEUYVoAcx-47" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.82;entryX=0.6;entryY=0;rounded=0;" edge="1" parent="1" source="MuFlPpNBkbOXEUYVoAcx-16" target="MuFlPpNBkbOXEUYVoAcx-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="446" y="1074" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MuFlPpNBkbOXEUYVoAcx-48" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.44;exitY=0;entryX=0;entryY=0.54;rounded=0;" edge="1" parent="1" source="MuFlPpNBkbOXEUYVoAcx-17" target="MuFlPpNBkbOXEUYVoAcx-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="279" y="1074" />
+              <mxPoint x="279" y="828" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MuFlPpNBkbOXEUYVoAcx-49" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.56;entryY=0;rounded=0;" edge="1" parent="1" source="MuFlPpNBkbOXEUYVoAcx-16" target="MuFlPpNBkbOXEUYVoAcx-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="647" y="1074" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MuFlPpNBkbOXEUYVoAcx-50" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.39;exitY=0;entryX=0;entryY=0.55;rounded=0;" edge="1" parent="1" source="MuFlPpNBkbOXEUYVoAcx-18" target="MuFlPpNBkbOXEUYVoAcx-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="476" y="1074" />
+              <mxPoint x="476" y="828" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MuFlPpNBkbOXEUYVoAcx-51" value="3. 成绩查询" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.58;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="MuFlPpNBkbOXEUYVoAcx-9" target="MuFlPpNBkbOXEUYVoAcx-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1681" y="828" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MuFlPpNBkbOXEUYVoAcx-52" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.58;entryX=0.55;entryY=0;rounded=0;" edge="1" parent="1" source="MuFlPpNBkbOXEUYVoAcx-19" target="MuFlPpNBkbOXEUYVoAcx-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="887" y="1074" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MuFlPpNBkbOXEUYVoAcx-53" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.44;exitY=0;entryX=0;entryY=0.59;rounded=0;" edge="1" parent="1" source="MuFlPpNBkbOXEUYVoAcx-20" target="MuFlPpNBkbOXEUYVoAcx-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="773" y="1074" />
+              <mxPoint x="773" y="828" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MuFlPpNBkbOXEUYVoAcx-54" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.65;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="MuFlPpNBkbOXEUYVoAcx-19" target="MuFlPpNBkbOXEUYVoAcx-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2120" y="1074" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MuFlPpNBkbOXEUYVoAcx-55" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="MuFlPpNBkbOXEUYVoAcx-21" target="MuFlPpNBkbOXEUYVoAcx-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MuFlPpNBkbOXEUYVoAcx-56" value="找到" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.59;entryX=1;entryY=0.25;rounded=0;" edge="1" parent="1" source="MuFlPpNBkbOXEUYVoAcx-22" target="MuFlPpNBkbOXEUYVoAcx-23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1488" y="1556" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MuFlPpNBkbOXEUYVoAcx-57" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.46;exitY=0.01;entryX=0;entryY=0.67;rounded=0;" edge="1" parent="1" source="MuFlPpNBkbOXEUYVoAcx-23" target="MuFlPpNBkbOXEUYVoAcx-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="971" y="1556" />
+              <mxPoint x="971" y="828" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MuFlPpNBkbOXEUYVoAcx-58" value="未找到" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.61;entryY=0.01;rounded=0;" edge="1" parent="1" source="MuFlPpNBkbOXEUYVoAcx-22" target="MuFlPpNBkbOXEUYVoAcx-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2120" y="1556" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MuFlPpNBkbOXEUYVoAcx-59" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.39;exitY=0.01;entryX=1;entryY=0.55;rounded=0;" edge="1" parent="1" source="MuFlPpNBkbOXEUYVoAcx-24" target="MuFlPpNBkbOXEUYVoAcx-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2006" y="1556" />
+              <mxPoint x="2006" y="828" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MuFlPpNBkbOXEUYVoAcx-60" value="4. 生成成绩单(保存)" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.67;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="MuFlPpNBkbOXEUYVoAcx-9" target="MuFlPpNBkbOXEUYVoAcx-25">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1448" y="828" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MuFlPpNBkbOXEUYVoAcx-61" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.75;entryX=0.57;entryY=0;rounded=0;" edge="1" parent="1" source="MuFlPpNBkbOXEUYVoAcx-25" target="MuFlPpNBkbOXEUYVoAcx-26">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1191" y="1074" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MuFlPpNBkbOXEUYVoAcx-62" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.43;exitY=0;entryX=0;entryY=0.78;rounded=0;" edge="1" parent="1" source="MuFlPpNBkbOXEUYVoAcx-26" target="MuFlPpNBkbOXEUYVoAcx-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1059" y="1074" />
+              <mxPoint x="1059" y="828" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MuFlPpNBkbOXEUYVoAcx-63" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="MuFlPpNBkbOXEUYVoAcx-25" target="MuFlPpNBkbOXEUYVoAcx-27">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MuFlPpNBkbOXEUYVoAcx-64" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.58;entryY=0;rounded=0;" edge="1" parent="1" source="MuFlPpNBkbOXEUYVoAcx-27" target="MuFlPpNBkbOXEUYVoAcx-28">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1448" y="1324" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MuFlPpNBkbOXEUYVoAcx-65" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.42;exitY=0;entryX=0.97;entryY=0.99;rounded=0;" edge="1" parent="1" source="MuFlPpNBkbOXEUYVoAcx-28" target="MuFlPpNBkbOXEUYVoAcx-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1285" y="1324" />
+              <mxPoint x="1285" y="828" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MuFlPpNBkbOXEUYVoAcx-66" value="5. 退出" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.56;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="MuFlPpNBkbOXEUYVoAcx-9" target="MuFlPpNBkbOXEUYVoAcx-29">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1884" y="828" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MuFlPpNBkbOXEUYVoAcx-67" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="MuFlPpNBkbOXEUYVoAcx-29" target="MuFlPpNBkbOXEUYVoAcx-30">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MuFlPpNBkbOXEUYVoAcx-68" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="MuFlPpNBkbOXEUYVoAcx-30" target="MuFlPpNBkbOXEUYVoAcx-31">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
