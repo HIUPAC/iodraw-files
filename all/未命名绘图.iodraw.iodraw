@@ -342,9 +342,6 @@
         <mxCell id="MuFlPpNBkbOXEUYVoAcx-71" value="判断选手数据是否存在" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="212.75" y="270" width="166.5" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="MuFlPpNBkbOXEUYVoAcx-73" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="210" y="510" width="172" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="MuFlPpNBkbOXEUYVoAcx-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MuFlPpNBkbOXEUYVoAcx-77" target="MuFlPpNBkbOXEUYVoAcx-71">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -377,9 +374,6 @@
             <mxPoint x="490" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MuFlPpNBkbOXEUYVoAcx-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MuFlPpNBkbOXEUYVoAcx-72" target="MuFlPpNBkbOXEUYVoAcx-73">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="MuFlPpNBkbOXEUYVoAcx-72" value="显示当前排名列表" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="356" y="410" width="156" height="49" as="geometry" />
         </mxCell>
@@ -395,8 +389,10 @@
         <mxCell id="MuFlPpNBkbOXEUYVoAcx-88" value="返回主界面" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="235" y="640" width="120" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="MuFlPpNBkbOXEUYVoAcx-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.51;entryY=-0.089;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MuFlPpNBkbOXEUYVoAcx-73" target="MuFlPpNBkbOXEUYVoAcx-88">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="MuFlPpNBkbOXEUYVoAcx-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.51;entryY=-0.089;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="MuFlPpNBkbOXEUYVoAcx-88">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="295.9999999999998" y="559" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="MuFlPpNBkbOXEUYVoAcx-97" value="返回主界面" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="235" y="640" width="120" height="49" as="geometry" />
