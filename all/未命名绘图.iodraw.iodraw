@@ -335,6 +335,9 @@
         <mxCell id="MuFlPpNBkbOXEUYVoAcx-73" value="添加选手到列表" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="210" y="510" width="172" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="MuFlPpNBkbOXEUYVoAcx-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="MuFlPpNBkbOXEUYVoAcx-74" target="MuFlPpNBkbOXEUYVoAcx-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="MuFlPpNBkbOXEUYVoAcx-74" value="分数不合格" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="80" y="410" width="156" height="49" as="geometry" />
         </mxCell>
