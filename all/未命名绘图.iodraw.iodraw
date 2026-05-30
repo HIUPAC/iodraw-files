@@ -333,16 +333,16 @@
           <mxGeometry x="840" y="310" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="MuFlPpNBkbOXEUYVoAcx-72" value="计算最终得分" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="351" y="440" width="156" height="49" as="geometry" />
+          <mxGeometry x="334" y="331" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="MuFlPpNBkbOXEUYVoAcx-73" value="添加选手到列表" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="210" y="590" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="MuFlPpNBkbOXEUYVoAcx-74" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="100" y="440" width="156" height="49" as="geometry" />
+          <mxGeometry x="90" y="310" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="MuFlPpNBkbOXEUYVoAcx-77" value="输入选手ID和姓名" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="236" y="210" width="120" height="60" as="geometry" />
+          <mxGeometry x="236" y="185" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MuFlPpNBkbOXEUYVoAcx-78" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="236" y="80" width="120" height="60" as="geometry" />
